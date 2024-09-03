@@ -38,5 +38,28 @@ Once the server is running, you can access the application at http://localhost:3
 <img width="921" alt="eer" src="https://github.com/user-attachments/assets/591babbb-1570-43b0-9a0b-bf9bc463f401">
 
 
+Design :- 
+1) A customer can place multiple orders (One to Many)
+2) Each order can have multiple items and each item can be present in multiple orders (Many to Many)
+3) A customer can have multiple addresses (One to many)
+
+Features :-
+You can edit an order  
+   1) add/delete number of items in it.
+   2) edit the customer details
+   3) edit the address associated with the order
+   
+You can add an order 
+   1) To an existing customer
+   2) To a new customer
+
+You can add an item 
+   1) This appears on the items dropdown list
+
+
+   
+
+
+
 
 
