@@ -7,9 +7,9 @@ Follow these steps to set up and run the project:
 
 1. Clone the Repository
 
-git clone https://github.com/eswarbalisetty7777/frontendDpWorld.git
+git clone https://github.com/eswarbalisetty7777/backendDPWorld.git
 
-cd frontendDpWorld
+cd backendDPWorld
 
 3. Create a Database
    
