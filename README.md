@@ -35,5 +35,8 @@ npm run start
 6. Access the Application
 Once the server is running, you can access the application at http://localhost:3000 (assuming the default port 3000 is used).
 
+<img width="921" alt="eer" src="https://github.com/user-attachments/assets/591babbb-1570-43b0-9a0b-bf9bc463f401">
+
+
 
 
