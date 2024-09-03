@@ -21,8 +21,8 @@ import { OrderLine } from './order-line/order-line.entity';
       type: 'mysql',
       host: 'localhost',
       port: 3306,
-      username: 'root',
-      password: 'Eswar123!@#',
+      username: '<YOUR DB USERNAME>',
+      password: '<YOUR DB PASSWORD',
       database: 'DPWorld',
       entities: [Item, Customer, Address, Order, OrderLine],
       synchronize: true, // Set to true during development if you want auto schema sync
