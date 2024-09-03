@@ -1,0 +1,122 @@
+{
+    "TransactionRequest": {
+        "Orders": {
+            "Order": [
+                {
+                    "@seq": "1",
+                    "ReferenceNum": "o1234567",
+                    "CountryCode": "IRL",
+                    "Address": {
+                        "FullName": "Office A",
+                        "AddressType": "Private",
+                        "AddressLine1": "1A, Airport Business Park",
+                        "AddressLine2": "Cloghran, Swords, Co. Dublin"
+                    },
+                    "Customer": {
+                        "CustomerCode": "KM-01",
+                        "FirstName": "John",
+                        "LastName": "Hope",
+                        "Phone": "+35312345678",
+                        "Email": "john@xyz.com"
+                    },
+                    "OrderLines": {
+                        "OrderLine": [
+                            {
+                                "@seq": "1",
+                                "ItemNum": "R457739",
+                                "ItemDescription": "iPhone 8"
+                            },
+                            {
+                                "@seq": "1",
+                                "ItemNum": "R457739X",
+                                "ItemDescription": "iPhone 10"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "@seq": "2",
+                    "ReferenceNum": "o1234888",
+                    "CountryCode": "IRL",
+                    "Address": {
+                        "FullName": "Office B",
+                        "AddressType": "Private",
+                        "AddressLine1": "2A, Airport Business Park",
+                        "AddressLine2": "Cloghran, Swords, Co. Dublin"
+                    },
+                    "Customer": {
+                        "CustomerCode": "KM-02",
+                        "FirstName": "Luke",
+                        "LastName": "Mac",
+                        "Phone": "+35312345678",
+                        "Email": "luke@xyz.com"
+                    },
+                    "OrderLines": {
+                        "OrderLine": {
+                            "@seq": "1",
+                            "ItemNum": "R457710",
+                            "ItemDescription": "iPhone 4"
+                        }
+                    }
+                },
+                {
+                    "@seq": "3",
+                    "ReferenceNum": "o1234999",
+                    "CountryCode": "USA",
+                    "Address": {
+                        "FullName": "FAO BG",
+                        "AddressType": "Private",
+                        "AddressLine1": "1A, Airport Business Park, Itassca",
+                        "AddressLine2": "Chicago, Illinois"
+                    },
+                    "Customer": {
+                        "CustomerCode": "KM-05",
+                        "FirstName": "Alan",
+                        "LastName": "Key",
+                        "Phone": "+35312345678",
+                        "Email": "alan@xyz.com"
+                    },
+                    "OrderLines": {
+                        "OrderLine": {
+                            "@seq": "1",
+                            "ItemNum": "R457734",
+                            "ItemDescription": "iPad Mini"
+                        }
+                    }
+                },
+                {
+                    "@seq": "3",
+                    "ReferenceNum": "o1234555",
+                    "CountryCode": "IRL",
+                    "Address": {
+                        "FullName": "Place C",
+                        "AddressType": "Private",
+                        "AddressLine1": "2A, Airport Business Park",
+                        "AddressLine2": "Cloghran, Swords, Co. Dublin"
+                    },
+                    "Customer": {
+                        "CustomerCode": "KM-02",
+                        "FirstName": "Luke",
+                        "LastName": "Mac",
+                        "Phone": "+35312345678",
+                        "Email": "luke@xyz.com"
+                    },
+                    "OrderLines": {
+                        "OrderLine": [
+                            {
+                                "@seq": "1",
+                                "ItemNum": "R457740",
+                                "ItemDescription": "iMac"
+                            },
+                            {
+                                "@seq": "1",
+                                "ItemNum": "R457734",
+                                "ItemDescription": "iPad Mini"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
